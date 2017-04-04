@@ -1,6 +1,6 @@
 # Linaro Firmware Over The Air Programming Example
 
-Example application that uses Hawkbit to implement FOTA.
+Example application that uses Hawkbit to implement FOTA. Modified by Andy
 
 ## Build Status:
 | platforms | zephyr/master | zephyr/master-upstream-dev | zephyr/v1.7-dev |
