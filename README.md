@@ -2,6 +2,8 @@
 
 Example application that uses Hawkbit to implement FOTA.
 
+ANDY TEST
+
 ## Build Status:
 | platforms | zephyr/master | zephyr/master-upstream-dev | zephyr/v1.7-dev |
 | --- | :---: | :---: | :---: |
